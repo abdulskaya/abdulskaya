@@ -29,7 +29,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" alt="Abdulsamet Kaya:: Profile Stats" /></p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt)
-
 
 
