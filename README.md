@@ -30,4 +30,6 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" alt="Abdulsamet Kaya:: Profile Stats" /></p>
 
 
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=abdulskaya&theme=dracula&date_format=%5BY%20%5DM%20j" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+
 
