@@ -5,7 +5,7 @@
 
 <br><br>
 - 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> Vue.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="25" height="25"/> </a>
+- 🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="vuejs" width="25" height="25"/> </a>
 <br>
 
 ## 🛠 Skills
