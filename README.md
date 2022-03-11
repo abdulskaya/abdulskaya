@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi 👋, I'm Abdulsamet&fontSize=30)
 
 
-<h1 align="center">Hi 👋, I'm Abdulsamet</h1>
+<h1 align="center"></h1>
 
 <h3 align="center">A passionate Full Stack Developer from Turkey</h3>
 
