@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20👋,%20I'm%20Abdulsamet&fontSize=30)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=fdf23d&desc=Hi%20%F0%9F%91%8B,%20I%27m%20Abdulsamet&fontSize=40&descAlignY=30)
 
 <h1 align="center"></h1>
 
-<h3 align="center">A passionate Full Stack Developer from Turkey</h3>
+<h3 align="center"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulskaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulskaya" /> </p>
 
