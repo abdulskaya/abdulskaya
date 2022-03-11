@@ -21,12 +21,12 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" width="450" alt="Abdulsamet Kaya:: Profile Stats" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=abdulskaya&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" width="450" alt="Abdulsamet Kaya:: Profile Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abdulskaya&count_private=true&show_icons=true&theme=cobalt" width="40%" alt="Abdulsamet Kaya:: Profile Stats" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=abdulskaya&theme=dracula&date_format=%5BY%20%5DM%20j&background=193549" width="40%" alt="Abdulsamet Kaya:: Profile Stats" />
 </p>
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulskaya&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats" alt="Abdulsamet Kaya:: Profile Stats" /></p>
+<p align="center"><img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulskaya&layout=compact&langs_count=12" alt="Abdulsamet Kaya:: Profile Stats" /></p>
 
 
 
