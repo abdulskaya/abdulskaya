@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3e3e&desc=Hi%20%F0%9F%91%8B,%20I%27m%20Abdulsamet&fontSize=40&descAlignY=30&desc=%20A%20passionate%20Full%20Stack%20Developer%20from%20Turkey&fontSize=20" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?height=150&type=waving&color=ff3e3e&desc=Hi%20%F0%9F%91%8B,%20I%27m%20Abdulsamet&fontSize=40&descAlignY=30&desc=%20A%20passionate%20Backend%20Developer%20from%20Turkey&fontSize=20&fontColor=fff" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulskaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulskaya" /> </p>
 
 - 🔭 I’m currently working on the web
