@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulskaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulskaya" /> </p>
 
 - 🔭 I’m currently working on the web
-- 🌱 I’m currently learning <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> Node.js <img src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="node" width="25" height="25"/> </a> & <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> TypeScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="type" width="25" height="25"/> </a>
+- 🌱 I’m currently learning <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> NestJS <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="type" width="25" height="25"/> </a>
 <br>
 
 ## 🛠 Skills
