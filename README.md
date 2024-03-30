@@ -2,7 +2,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abdulskaya&label=Profile%20views&color=0e75b6&style=flat" alt="abdulskaya" /> </p>
 
 - 🔭 I’m currently working on the web & e-commerce
-- 🌱 I’m currently learning <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> NestJS <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="type" width="25" height="25"/> </a>
 <br>
 
 ## 🛠 Skills
